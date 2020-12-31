@@ -23,7 +23,7 @@ jenkins_plugins:
   - git
   - build-pipeline-plugin
   - token-macro
-#  - blueocean
+  - blueocean
 #  - name: influxdb
 #    version: "1.12.1"
 
