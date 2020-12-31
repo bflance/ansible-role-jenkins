@@ -24,8 +24,8 @@ jenkins_plugins:
   - build-pipeline-plugin
   - token-macro
   - blueocean
+  - ssh-build-agents
   - ssh-credentials-plugin
-  build-pipeline-plugin
 #  - name: influxdb
 #    version: "1.12.1"
 
