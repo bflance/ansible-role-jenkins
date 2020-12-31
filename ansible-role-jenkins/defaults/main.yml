@@ -20,6 +20,9 @@ jenkins_java_options: "-Djenkins.install.runSetupWizard=false"
 
 # Plugin list can use the plugin name, or a name/version dict.
 jenkins_plugins: []
+   - git
+   - build-pipeline-plugin
+   - token-macro
 #  - blueocean
 #  - name: influxdb
 #    version: "1.12.1"
