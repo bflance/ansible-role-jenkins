@@ -26,7 +26,7 @@ jenkins_plugins:
   - blueocean
   - ssh-credentials-plugin
   - pipeline-groovy
-#  - name: influxdb
+#  - name: influxdb  
 #    version: "1.12.1"
 
 jenkins_plugins_state: present
