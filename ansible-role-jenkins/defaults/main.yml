@@ -20,7 +20,7 @@ jenkins_java_options: "-Djenkins.install.runSetupWizard=false"
 
 # Plugin list can use the plugin name, or a name/version dict.
 jenkins_plugins:
-  - matrix-auth-plugin
+  - matrix-auth
   - git
   - git-plugin
   - gitlab-plugin
