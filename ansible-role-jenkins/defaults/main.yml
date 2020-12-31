@@ -25,8 +25,7 @@ jenkins_plugins:
   - token-macro
   - blueocean
   - ssh-credentials-plugin
-  - pipeline: Groovy
-
+  - pipeline-groovy
 #  - name: influxdb
 #    version: "1.12.1"
 
